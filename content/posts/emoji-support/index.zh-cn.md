@@ -1,20 +1,20 @@
 ---
-weight: 5
-title: "Emoji 支持"
-date: 2019-10-01T17:55:28+08:00
-lastmod: 2019-10-01T17:55:28+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- Markdown
+date: "2019-10-01T17:55:28+08:00"
+description: Hugo 和 LoveIt 中的 Emoji 的用法指南.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "Hugo 和 LoveIt 中的 Emoji 的用法指南."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-
-tags: ["emoji"]
-categories: ["Markdown"]
-
+lastmod: "2019-10-01T17:55:28+08:00"
 lightgallery: true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- emoji
+title: Emoji 支持
+weight: 5
 ---
 
 Emoji 可以通过多种方式在 Hugo 项目中启用.

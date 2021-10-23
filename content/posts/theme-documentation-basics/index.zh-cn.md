@@ -1,23 +1,23 @@
 ---
-weight: 1
-title: "主题文档 - 基本概念"
-date: 2020-03-06T21:40:32+08:00
-lastmod: 2020-03-06T21:40:32+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-06T21:40:32+08:00"
+description: 探索 Hugo - LoveIt 主题的全部内容和背后的核心概念.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "探索 Hugo - LoveIt 主题的全部内容和背后的核心概念."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-
-tags: ["installation", "configuration"]
-categories: ["documentation"]
-
+lastmod: "2020-03-06T21:40:32+08:00"
 lightgallery: true
-
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- installation
+- configuration
+title: 主题文档 - 基本概念
 toc:
   auto: false
+weight: 1
 ---
 
 探索 Hugo - **LoveIt** 主题的全部内容和背后的核心概念.

@@ -1,25 +1,25 @@
 ---
-weight: 2
-title: "主题文档 - 内容"
-date: 2020-03-05T16:30:05+08:00
-lastmod: 2020-03-05T16:30:05+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-05T16:30:05+08:00"
+description: 了解如何在 LoveIt 主题中快速, 直观地创建和组织内容.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "了解如何在 LoveIt 主题中快速, 直观地创建和组织内容."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-
-tags: ["content", "Markdown"]
-categories: ["documentation"]
-
+lastmod: "2020-03-05T16:30:05+08:00"
 lightgallery: true
-
-toc:
-  auto: false
 math:
   enable: true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- content
+- Markdown
+title: 主题文档 - 内容
+toc:
+  auto: false
+weight: 2
 ---
 
 了解如何在 **LoveIt** 主题中快速, 直观地创建和组织内容.

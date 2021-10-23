@@ -1,25 +1,26 @@
 ---
-weight: 2
-title: "Theme Documentation - Content"
-date: 2020-03-05T15:58:26+08:00
-lastmod: 2020-03-05T15:58:26+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-05T15:58:26+08:00"
+description: Find out how to create and organize your content quickly and intuitively
+  in LoveIt theme.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "Find out how to create and organize your content quickly and intuitively in LoveIt theme."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-
-tags: ["content", "Markdown"]
-categories: ["documentation"]
-
+lastmod: "2020-03-05T15:58:26+08:00"
 lightgallery: true
-
-toc:
-  auto: false
 math:
   enable: true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- content
+- Markdown
+title: Theme Documentation - Content
+toc:
+  auto: false
+weight: 2
 ---
 
 Find out how to create and organize your content quickly and intuitively in **LoveIt** theme.

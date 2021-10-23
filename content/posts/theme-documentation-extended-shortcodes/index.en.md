@@ -1,22 +1,23 @@
 ---
-weight: 4
-title: "Theme Documentation - Extended Shortcodes"
-date: 2020-03-03T16:29:41+08:00
-lastmod: 2020-03-03T16:29:41+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-03T16:29:41+08:00"
+description: LoveIt theme provides multiple shortcodes on top of built-in ones in
+  Hugo.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-- name: "featured-image-preview"
-  src: "featured-image-preview.jpg"
-
-tags: ["shortcodes"]
-categories: ["documentation"]
-
+lastmod: "2020-03-03T16:29:41+08:00"
 lightgallery: true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+- name: featured-image-preview
+  src: featured-image-preview.jpg
+tags:
+- shortcodes
+title: Theme Documentation - Extended Shortcodes
+weight: 4
 ---
 
 **LoveIt** theme provides multiple shortcodes on top of built-in ones in Hugo.

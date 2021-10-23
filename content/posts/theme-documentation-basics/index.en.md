@@ -1,23 +1,24 @@
 ---
-weight: 1
-title: "Theme Documentation - Basics"
-date: 2020-03-06T21:29:01+08:00
-lastmod: 2020-03-06T21:29:01+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-06T21:29:01+08:00"
+description: Discover what the Hugo - LoveIt theme is all about and the core-concepts
+  behind it.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-
-tags: ["installation", "configuration"]
-categories: ["documentation"]
-
+lastmod: "2020-03-06T21:29:01+08:00"
 lightgallery: true
-
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- installation
+- configuration
+title: Theme Documentation - Basics
 toc:
   auto: false
+weight: 1
 ---
 
 Discover what the Hugo - **LoveIt** theme is all about and the core-concepts behind it.

@@ -1,25 +1,25 @@
 ---
-weight: 4
-title: "主题文档 - 扩展 Shortcodes"
-date: 2020-03-03T16:29:59+08:00
-lastmod: 2020-03-03T16:29:59+08:00
+author: Dillon
+authorLink: https://dillonzq.com
+categories:
+- documentation
+date: "2020-03-03T16:29:59+08:00"
+description: LoveIt 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "LoveIt 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
-- name: "featured-image-preview"
-  src: "featured-image-preview.jpg"
-
-tags: ["shortcodes"]
-categories: ["documentation"]
-
+lastmod: "2020-03-03T16:29:59+08:00"
 lightgallery: true
 mapbox:
-  lightStyle: mapbox://styles/mapbox/light-zh-v1?optimize=true
   darkStyle: mapbox://styles/mapbox/dark-zh-v1?optimize=true
+  lightStyle: mapbox://styles/mapbox/light-zh-v1?optimize=true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+- name: featured-image-preview
+  src: featured-image-preview.jpg
+tags:
+- shortcodes
+title: 主题文档 - 扩展 Shortcodes
+weight: 4
 ---
 
 **LoveIt** 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.
