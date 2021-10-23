@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "Ava Kiai"
-theme = ""
+theme = "LoveIt"
 
 [params]
   # LoveIt theme version
@@ -11,7 +11,7 @@ theme = ""
   # site description
   description = ""
   # site keywords
-  keywords = ["Ava Kiai", "science","books",""]
+  keywords = ["Ava Kiai", "science","books"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -127,7 +127,7 @@ theme = ""
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "./padova.jpg"
+      avatarURL = "padova_rs.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Ava Kiai"
       # subtitle shown in home page
@@ -165,7 +165,7 @@ theme = ""
     # character used for the cursor (HTML format is supported)
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
-    duration = -1
+    duration = 50
 
   # Analytics
   [params.analytics]
@@ -205,7 +205,7 @@ theme = ""
     # whether to enable the fraction extended syntax
     fraction = false
     # whether to enable the fontawesome extended syntax
-    fontawesome = true
+    fontawesome = false
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # whether to show the full text content in RSS
