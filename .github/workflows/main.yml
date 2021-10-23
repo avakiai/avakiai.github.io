@@ -1,12 +1,23 @@
-name: CI
-on: push
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set a branch to deploy
+  pull_request:
+
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
-
+       # with:
+       #   submodules: true  # Fetch Hugo themes (true OR recursive)
+       #   fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
@@ -14,7 +25,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "v0.88.1"
+          hugo-version: 'v0.88.1'
           extended: true
 
       - name: Build
