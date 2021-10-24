@@ -1,2 +1,5 @@
 .httr-oauth
 .DS_Store
+fingerprint
+gh-pages
+gh-pages.pub
