@@ -10,7 +10,7 @@ Some years ago, I began reading books by some of the great early ethologists, li
 
 ---
 
-### Hi there!
+### What I'm Up To
 
 I’m a doctoral candidate in neuroscience in the [Auditory Computations Lab](https://www.julio-hechavarria.com/) at [Goethe University (Institute for Cell Biology & Neuroscience)](https://www.goethe-university-frankfurt.de/45912568/Institute_of_Cell_Biology___Neuroscience). I'm also affiliated with the [Neuroscience Department](https://www.aesthetics.mpg.de/en/research/department-of-neuroscience.html) at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) in Frankfurt, Germany.
 
