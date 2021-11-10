@@ -276,7 +276,7 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "CV"
-    url = "/docs/Kiai_CV_2021.pdf"
+    url = "/cv/Kiai_CV_2021.pdf"
     weight = 2
   [[menu.main]]
     identifier = "substack"
