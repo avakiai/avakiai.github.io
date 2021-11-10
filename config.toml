@@ -287,7 +287,7 @@ theme = "LoveIt"
     url = "/static/Kiai_CV_2021.pdf"
     # title will be shown when you hover on this menu link
     title = "Open CV in New Tab"
-    weight = 2.5
+    weight = 3
   [[menu.main]]
     identifier = "substack"
     pre = ""
