@@ -260,7 +260,7 @@ theme = "LoveIt"
     name = "Research"
     url = "/research/"
     title = ""
-    weight = 2
+    weight = 1
   [[menu.main]]
     identifier = "teaching"
     pre = ""
@@ -269,7 +269,7 @@ theme = "LoveIt"
     url = "/teaching/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 3
+    weight = 1
   [[menu.main]]
     identifier = "posts"
     pre = ""
@@ -278,16 +278,16 @@ theme = "LoveIt"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = "What's New?"
-    weight = 4
+    weight = 2
   [[menu.main]]
     identifier = "cv"
     pre = ""
     post = ""
     name = "CV"
-    url = "/cv/Kiai_CV_2021.pdf"
+    url = "/static/Kiai_CV_2021.pdf"
     # title will be shown when you hover on this menu link
     title = "Open CV in New Tab"
-    weight = 5
+    weight = 2.5
   [[menu.main]]
     identifier = "substack"
     pre = ""
@@ -296,7 +296,7 @@ theme = "LoveIt"
     url = "https://avakiai.substack.com/"
     # title will be shown when you hover on this menu link
     title = "Open Substack in New Tab"
-    weight = 6
+    weight = 3
 #  [[menu.main]]
 #    identifier = "categories"
 #    pre = ""
