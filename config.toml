@@ -272,6 +272,13 @@ theme = "LoveIt"
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    identifier = "cv"
+    pre = ""
+    post = ""
+    name = "CV"
+    url = "/docs/Kiai_CV_2021.pdf"
+    weight = 2
+  [[menu.main]]
     identifier = "substack"
     pre = ""
     post = ""
