@@ -261,8 +261,6 @@ theme = "LoveIt"
     weight = 1
   [[menu.main]]
     identifier = "teaching"
-    pre = ""
-    post = ""
     name = "Teaching"
     url = "/teaching/"
     # title will be shown when you hover on this menu link
@@ -270,8 +268,6 @@ theme = "LoveIt"
     weight = 1
   [[menu.main]]
     identifier = "posts"
-    pre = ""
-    post = ""
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
@@ -279,10 +275,8 @@ theme = "LoveIt"
     weight = 2
   [[menu.main]]
     identifier = "cv"
-    pre = ""
-    post = ""
     name = "CV"
-    url = "/docs/Kiai_CV_2021.pdf"
+    url = "/cv/Kiai_CV_2021.pdf"
     # title will be shown when you hover on this menu link
     #title = "Open CV in New Tab"
     weight = 2
