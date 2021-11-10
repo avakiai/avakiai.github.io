@@ -272,7 +272,7 @@ theme = "LoveIt"
     identifier = "posts"
     pre = ""
     post = ""
-    name = "Posts & News"
+    name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     # title = "What's New?"
