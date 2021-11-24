@@ -20,6 +20,8 @@ In my PhD, I study the vocal behavior of a species of neotropical fruit bat (Seb
 
 Previously, I completed my masters in the [Cogmaster](https://cogmaster.ens.psl.eu/en) (PSL/ENS) in Paris, and my bachelors at New York University. 
 
+{{% staticref "Kiai_CV_2021.pdf" %}}Download my CV{{% /staticref %}}
+
 -----
 
 In addition to science, I'm keen on baking, sports, music, and reading. 
