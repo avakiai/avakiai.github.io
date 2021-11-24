@@ -14,11 +14,11 @@ Some years ago, I began reading books by some of the great early ethologists, li
 
 I’m a doctoral candidate in neuroscience in the [Auditory Computations Lab](https://www.julio-hechavarria.com/) at [Goethe University (Institute for Cell Biology & Neuroscience)](https://www.goethe-university-frankfurt.de/45912568/Institute_of_Cell_Biology___Neuroscience). I'm also affiliated with the [Neuroscience Department](https://www.aesthetics.mpg.de/en/research/department-of-neuroscience.html) at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) in Frankfurt, Germany.
 
-{{<image src="aclab.png" alt="AC Logo" class=".float-left" width="200px">}}
+{{<image src="/aclab.png" alt="AC Logo" class=".float-left" width="200px">}}
 
 In my PhD, I study the vocal behavior of a species of neotropical fruit bat (Seba's short-tailed bat, *Carollia perspicillata*) in a modest bid to help us better understand the neural mechanisms that support vocal production in complex and social environments. I use a combination of bioacoustic, behavioral, in vivo electrophysiology, and computational modelling techniques to do this. 
 
-{{<image src="sptg.png" alt="SPTG Icon" class=".float-right" width="155px">}}
+{{<image src="/sptg.png" alt="SPTG Icon" class=".float-right" width="155px">}}
 
 I'm supported by a Main-campus-doctus PhD Scholarship from the [Stiftung Polytechnische Gesellschaft](https://www.sptg.de/). 
 
