@@ -271,28 +271,22 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     weight = 2
-  #[[menu.main]]
-  #  identifier = "cv"
-  #  pre = ""
-  #  post = ""
-  #  name = "CV"
-  #  url = "/cv/Kiai_CV_2021.pdf"
-  #  weight = 2
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "docs/Kiai_CV_2021.pdf"
+    weight = 2
   [[menu.main]]
     identifier = "substack"
-    pre = ""
-    post = ""
     name = "Substack"
     url = "https://avakiai.substack.com/"
     weight = 2
-#  [[menu.main]]
-#    identifier = "categories"
-#    pre = ""
-#    post = ""
-#    name = "Categories"
-#    url = "/categories/"
-#    title = ""
-#    weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
 
 # Author config
 [author]
