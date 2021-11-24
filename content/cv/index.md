@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
+---
+title: "CV"
+date: 2021-10-23T17:22:04+02:00
+draft: true
+---
 
-<head>
-  <title>CV</title>
-  <link rel="canonical" href="/Kiai_CV_2021.pdf" />
-  <meta name="robots" content="noindex">
-  <meta charset="utf-8" />
-  <meta http-equiv="refresh" content="0; url=/Kiai_CV_2021.pdf" />
-</head>
-
-</html>
+Something.
