@@ -255,11 +255,11 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     weight = 2
-  #[[menu.main]]
-  #  identifier = "cv"
-  #  name = "CV"
-  #  url = "/cv/"
-  #  weight = 2
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/Kiai_CV_2021.pdf"
+    weight = 2
   [[menu.main]]
     identifier = "substack"
     name = "Substack"
