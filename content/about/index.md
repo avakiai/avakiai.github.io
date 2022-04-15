@@ -16,13 +16,11 @@ I believe in the potential of a comparative, cross-species approach for illumina
 
 I’m a doctoral candidate in neuroscience in the [Auditory Computations Lab](https://www.julio-hechavarria.com/) at [Goethe University (Institute for Cell Biology & Neuroscience)](https://www.goethe-university-frankfurt.de/45912568/Institute_of_Cell_Biology___Neuroscience) in Frankfurt, Germany.
 
-{{<image src="/aclab.png" alt="AC Logo" class=".text-align:center" width="200px">}} 
-
 In my PhD, I study the vocal behavior of a species of neotropical fruit bat (Seba's short-tailed bat, *Carollia perspicillata*) to help us better understand the neural mechanisms that support vocal production in complex and social environments. I use a combination of bioacoustic, behavioral, *in vivo* electrophysiology, and computational modelling techniques to do this. 
 
 I'm supported by a Main-campus-doctus PhD Scholarship from the [Stiftung Polytechnische Gesellschaft](https://www.sptg.de/). 
 
-{{<image src="/sptg.png" alt="SPTG Icon" class=".text-align:center" width="155px">}}
+{{<figure> <img src="/aclab.png" alt="AC Logo"> <img src="/sptg.png" alt="SPTG Icon"> </figure>}}
 
 -----
 
