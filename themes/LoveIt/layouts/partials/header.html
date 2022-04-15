@@ -181,3 +181,7 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div>
+
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
