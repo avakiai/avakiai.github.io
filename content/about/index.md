@@ -20,9 +20,7 @@ In my PhD, I study the vocal behavior of a species of neotropical fruit bat (Seb
 
 I'm supported by a Main-campus-doctus PhD Scholarship from the [Stiftung Polytechnische Gesellschaft](https://www.sptg.de/). 
 
-<div class="link"><img src="/aclab.png" alt="AC Logo" width="200px"/></div>
-<div class="link"><img src="/sptg.png" alt="SPTG Icon" width="155px"/></div>
-
+{{<image src="/aclab.png" alt="AC Logo" class=".text-align:center" width="200px">}} {{<image src="/sptg.png" alt="SPTG Icon" class=".text-align:center" width="155px">}}
 -----
 
 Previously, I was a researcher in the [Neuroscience Department](https://www.aesthetics.mpg.de/en/research/department-of-neuroscience.html) at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). Before that, I completed my masters in the [Cogmaster](https://cogmaster.ens.psl.eu/en) (PSL/ENS) in Paris, and my bachelor at New York University. 

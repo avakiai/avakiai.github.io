@@ -229,8 +229,6 @@ theme = "LoveIt"
       enable = true
       Twitter = true
       Pocket = false
-  # custom css (@ 13-04-2022 Ava Kiai)
-  custom_css = ["css/custom.css"]
     
 [menu]
   [[menu.main]]
