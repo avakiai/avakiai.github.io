@@ -1,11 +1,10 @@
 ---
 title: "[Outreach] Skype a Scientist: Talking to 4th Grades about bats"
-date: 2021-11-31T13:12:04+02:00
+date: 2021-12-01T13:12:04
 draft: false
 ---
 
-I had a great time talking to a couple classes of 4th graders yesterday about bats. As part of 
-the online scientist-teacher matching program, #SkypeaScientist, I linked up with 
+Back in November, I had a great experience talking to a couple classes of 4th graders about bats. As part of the online scientist-teacher matching program, #SkypeaScientist, I linked up with 
 [Mrs. Phaedra Taft](https://twitter.com/taftphaedra1) at an elementary school in Connecticut. 
 
 We talked about bat ecology, their hearing and vocal abilities, and their natural history. It's 
