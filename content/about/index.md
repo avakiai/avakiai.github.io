@@ -18,9 +18,8 @@ I’m a doctoral candidate in neuroscience in the [Auditory Computations Lab](ht
 
 In my PhD, I study the vocal behavior of a species of neotropical fruit bat (Seba's short-tailed bat, *Carollia perspicillata*) to help us better understand the neural mechanisms that support vocal production in complex and social environments. I use a combination of bioacoustic, behavioral, *in vivo* electrophysiology, and computational modelling techniques to do this. 
 
-I'm supported by a Main-campus-doctus PhD Scholarship from the [Stiftung Polytechnische Gesellschaft](https://www.sptg.de/). 
-
-{{<figure> <img src="/aclab.png" alt="AC Logo"> <img src="/sptg.png" alt="SPTG Icon"> </figure>}}
+{{<image src="/sptg.png" alt="SPTG Icon" class=".float-left" width="155px">}}
+{{<image src="/aclab.png" alt="AC Logo" class=".float-right" width="200px">}} 
 
 -----
 
