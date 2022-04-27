@@ -8,7 +8,7 @@ Yesterday, I gave a talk in the Interdisciplinary Colloquium of the [Main-Campus
 
 In the talk, titled "Die schnatternde Menagerie: Eine ethologische und musikalische Einführung in die Tiersprache" (_The Chattering Menagerie: An ethological and musical introduction to animal communication_), I discussed the semantics, grammar, developement, and evolution of animal communication calls, using examples culled mainly from the bird, bat, and primate literature.
 
-{{<image src="/Menagerie_2022.png">}}
+{{<image src="/Menagerie_2022.jpg">}}
 
 In between the scientific discussion, I showed examples of animal calls in classical music. Of course, birdsong is perhaps the most commonly found (and most accurately represented) animal vocalization in music. 
 
