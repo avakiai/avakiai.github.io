@@ -4,29 +4,43 @@ date: 2022-04-13T19:31:04+02:00
 draft: false
 ---
 
+Vocal communication is ubiquitous in the mammalian kingdom and astounding in its richness and diversity. While vocal behaviors in different animals may be highly specialized, fundamental systems of information processing in the brain are [preserved across species](https://www.sciencedirect.com/science/article/pii/S0896627313009045). I believe in the potential of a comparative, cross-species approach for illuminating how fundamental properties of vocal production and processing have evolved - in humans, as well as in our near and distant cousins.
 
-My research focuses on acoustic jamming avoidance, social vocalizations, and the neural basis of vocal adaptation in bats. My current research program breaks down into three major topics: 
+---
+
+My research focuses on vocal plasticity in echolocating bats (*Carollia perspicillata*) and the neural mechanisms that jointly support the processing of auditory inputs and executive control of vocalization. 
 
 ## Study 1: Talking in a noisy world
 
-How do bats adapt parameters of their calls to avoid acoustic jamming from each other and from environmental noise? Many bats, including our model species *Carollia*, have rich vocal interactions and also navigate use biosonar. But these signals are subject to acoustic interference, that may make them unintelligible. Indeed, background noise is ubiquitous in natural settings, and vocalizing animals must actively adapt to changing noise in order to ensure their vocalizations are heard by others. For a great introduction to the issue of acoustic communication in noise, see [this review](https://www.sciencedirect.com/science/article/abs/pii/S0065345405350042) by Henrik Brumm and Hans Slabbekoorn. 
+The natural world is full of noise, which can interfere with intra-specific acoustic communication. Many bats, including our model species *Carollia*, rely heavily on the returning echos of their biosonar pulses for navigation, while also engaging in rich vocal interactions.
+How do bats deal with acoustic jamming from their auditory environment? 
 
-In an ongoing study, we use bioacoustics and electrophysiology to study how bats overcome acoustic jamming and how various brain regions coordinate to generate optimized vocalizations. 
+In a pair of behavioral experiments, we showed that bats actively avoid acoustic interference from background noise by seeking out temporal "windows of of opportunity" in ambient noise. By vocalizing more often in periods of low-amplitude noise, they are able to maintain the
+signal integrity of their echolocation pulses or social calls. 
+
+{{<image src="/JHS_GraphicalAbstract_abridged.png" alt="exp 1 graphical abstract" class=".float-left" width="155px">}} 
+
+[Preprint (under review)](https://www.biorxiv.org/content/10.1101/2023.05.09.539989v1.abstract)
+
+--
+## Study 2: Investigating a frontal locus of auditory processing and vocal control
+
+The frontal cortex of *Carollia* bats features a small region, the fronal auditory field (FAF), believed to be involved in integrating auditory information and the motor execution of vocalizations. 
+
+To probe the role of this region in both auditory processing and vocal production, we record extracellular activity *in vivo* from awake animals during vocalization and during playback of different acoustic stimuli after administering the GABA agonist muscimol, which reversibly inhibits FAF.
+
+{{<image src="/faf_network.png" alt="exp 2 faf muscimol" class=".float-left" width="155px">}} 
 
 ---
 
-## Study 2: Turn taking in a vocal learning animal
+## Study 3: Turn taking in a vocal [learning?] animal
 
-*Carollia* is a species of the family *Phyllostomidae*, that features several [vocally talented bat species](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0061#d3e427). *Carollia* as well as their cousins are not born with a fixed and unchanging vocal repertoire. Rather, these species' vocal abilities develop in the course of infancy, and adults retain the ability to produce new or varied vocalizations. 
+*Carollia* is a species of the family *Phyllostomidae*, which features several [vocally talented bat species](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0061#d3e427). *Carollia* pups are not born with a fixed and unchanging vocal repertoire. Rather, their vocal abilities develop in the course of infancy. 
 
-In this study, we examine whether *Carollia* engage in in systematic [turn-taking](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.0598), where communication calls are emitted in turns and listeners wait until the current speaker has stopped calling to begin their turn. Turn-taking is believed to underlie complex social interactions and to be an evolutionary precursor of human language, but has not yet been observed in this species. 
+In this study, we examine whether *Carollia* pups and mothers engage in in systematic [turn-taking](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.0598), where communication calls are emitted in turns and listeners wait until the current speaker has stopped calling to begin their turn. Turn-taking is believed to underlie complex social interactions and to be an evolutionary precursor of human language, but has not yet been observed in this species. 
 
 ---
 
-## Study 3: Causal neural mechanisms of vocal adaptation
 
-Finally, we are interested in how neural assemblies coordinate to actively sample the acoustic environment and produce vocalizations. [Previous research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000658&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+plosbiology%2FNewArticles+%28PLOS+Biology+-+New+Articles%29) from our group highlights the role of oscillatory activity in selectively producing biosonar and social communication calls in *Carollia*.
-
-In this study, we will probe the causal role of key regions in the vocal production network responsible for the vocal adaptation behaviors discussed above. Using electrical stimulation, we will selectively target different brain areas, such as the frontal auditory field and auditory cortex, to activate and perturb the vocalization system and hopefully gain insight into the mechanism underlying vocal learning in this species. 
 
 
