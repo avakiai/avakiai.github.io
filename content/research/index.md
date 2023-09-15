@@ -18,7 +18,7 @@ How do bats deal with acoustic jamming from their auditory environment?
 In a pair of behavioral experiments, we showed that bats actively avoid acoustic interference from background noise by seeking out temporal "windows of of opportunity" in ambient noise. By vocalizing more often in periods of low-amplitude noise, they are able to maintain the
 signal integrity of their echolocation pulses or social calls. 
 
-{{<image src="/JHS_GraphicalAbstract_abridged.png" alt="exp 1 graphical abstract" class=".float-left" width="155px">}} 
+{{<image src="/JHS_GraphicalAbstract_abridged.png" alt="exp 1 graphical abstract" class=".float-center" width="1200px">}} 
 
 [Preprint (under review)](https://www.biorxiv.org/content/10.1101/2023.05.09.539989v1.abstract)
 
@@ -29,7 +29,7 @@ The frontal cortex of *Carollia* bats features a small region, the fronal audito
 
 To probe the role of this region in both auditory processing and vocal production, we record extracellular activity *in vivo* from awake animals during vocalization and during playback of different acoustic stimuli after administering the GABA agonist muscimol, which reversibly inhibits FAF.
 
-{{<image src="/faf_network.png" alt="exp 2 faf muscimol" class=".float-left" width="155px">}} 
+{{<image src="/faf_network.png" alt="exp 2 faf muscimol" class=".float-center" width="700px">}} 
 
 ---
 
