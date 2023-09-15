@@ -18,6 +18,6 @@ I received my bachelors at New York University.
 
 Outside of the lab, I enjoy reading, outdoor sports, tango dancing, and playing classical violin in amateur orchestras. 
 
-{{<image src="/sptg.png" alt="SPTG Icon" class=".float-center" width="400px">}} 
-{{<image src="/aclab.png" alt="AC Logo" class=".float-center" width="500px">}} 
+{{<image src="/sptg.png" alt="SPTG Icon" class=".float-center" width="150px">}} 
+{{<image src="/aclab.png" alt="AC Logo" class=".float-center" width="200px">}} 
 
