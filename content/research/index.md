@@ -21,7 +21,7 @@ In a pair of behavioral experiments, we showed that bats actively avoid acoustic
 {{<image src="/JHS_GraphicalAbstract_abridged.png" alt="exp 1 graphical abstract" class=".float-center" width="1200px">}} 
 
 
-[Kiai et al. Flexible control of vocal timing in Carollia perspicillata bats enables escape from acoustic interference, *Communications Biology* (2023).](https://www.nature.com/articles/s42003-023-05507-5)
+[Kiai et al. Flexible control of vocal timing in Carollia perspicillata bats enables escape from acoustic interference, *Communications Biology* (2023)](https://www.nature.com/articles/s42003-023-05507-5)
 
 ---
 ## Study 2: Investigating the role of a frontal locus of auditory processing and vocal control
