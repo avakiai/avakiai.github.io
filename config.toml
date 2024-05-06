@@ -258,7 +258,7 @@ theme = "LoveIt"
   [[menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/kiai_cv_2023a.pdf"
+    url = "/kiai_cv_2024.pdf"
     weight = 2
   [[menu.main]]
     identifier = "substack"

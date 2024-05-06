@@ -7,7 +7,7 @@ draft: false
 ## Courses
 
 * EXPRA (Empirisch-Experimentelles Praktikum): I teach an intensive, hands-on practical course in experimental psychology for undergraduate students in the Faculty of  Psychology at Goethe University (8 CP). The course combines traditional lectures (e.g. introduction to experimental science, experimental design in cognitive science, logic & philosophy of science), tutorials in which students learn the elements of empirical research and how to perform them (e.g. literature review, writing scientific reports, creating scientific posters), and a significant practical components in which I guide the students through implementing a novel experiment, collecting data, analyzing data using open source programming languages, and finally interpreting results. At the end of term, students present the results they produced over the semester in groups in a mini-poster session. 
-	* Winter Semester 2023-2024 [ongoing]
+	* Winter Semester 2023-2024 
 		- Demonstration Experiment: same as previous year 
 		- Experiment: On auditory rhythmic entrainment, in collaboration with Benedikt Zoefel and Troby Ka-Yan Lui (CNRS, Toulouse)
 	* Winter Semester 2021-2022 [Course JupyterBook](https://avakiai.github.io/expra_winter2021-2022/index.html) - If you would like to reuse any materials or data from the course, please get in touch and kindly remember to include the appropriate credit.
