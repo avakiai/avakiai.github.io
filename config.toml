@@ -127,11 +127,11 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "padova_rs.png"
+      avatarURL = "kiai.JPG"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Ava Kiai"
       # subtitle shown in home page
-      subtitle = "Hi there! Glad you made it. Take a look around..."
+      subtitle = "Hello and welcome!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -260,11 +260,11 @@ theme = "LoveIt"
     name = "CV"
     url = "/kiai_cv_2024.pdf"
     weight = 2
-  [[menu.main]]
-    identifier = "substack"
-    name = "Substack"
-    url = "https://avakiai.substack.com/"
-    weight = 2
+#  [[menu.main]]
+#    identifier = "substack"
+#    name = "Substack"
+#    url = "https://avakiai.substack.com/"
+#    weight = 2
   #[[menu.main]]
   #  identifier = "categories"
   #  name = "Categories"
