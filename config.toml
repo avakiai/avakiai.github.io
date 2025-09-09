@@ -131,7 +131,7 @@ theme = "LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Ava Kiai"
       # subtitle shown in home page
-      subtitle = "Hello and welcome!"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -150,7 +150,7 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     GitHub = "avakiai"
-    Twitter = "avakiai"
+  #  Twitter = ""
     Googlescholar = "https://scholar.google.com/citations?user=KJLW-j0AAAAJ&hl=en"
     Researchgate = ""
     Email = "avakiai@gmail.com"
@@ -238,23 +238,23 @@ theme = "LoveIt"
     name = "About"
     url = "/about/"
     weight = 1
-  [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    url = "/research/"
-    weight = 1
-  [[menu.main]]
-    identifier = "teaching"
-    name = "Teaching"
-    url = "/teaching/"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 1
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
+#  [[menu.main]]
+#    identifier = "research"
+#    name = "Research"
+#    url = "/research/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "teaching"
+#    name = "Teaching"
+#    url = "/teaching/"
+#    # title will be shown when you hover on this menu link
+#    title = ""
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 2
   [[menu.main]]
     identifier = "cv"
     name = "CV"
